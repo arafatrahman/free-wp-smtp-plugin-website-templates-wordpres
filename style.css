@@ -1,0 +1,122 @@
+/* gmail page design */
+/*--------------------------------------------------------------
+# Gmail Banner Section
+--------------------------------------------------------------*/
+
+
+
+.kau-documentation-headding{
+    margin-top: 45px;
+}
+.mailer-documentation-header{
+    background-image: url("https://riyadly.com/wp-content/uploads/2020/11/kauheader.jpg");
+    padding: 80px;
+}
+section.mailer-documentation-header .kau-quick-link-container {
+    max-width: 325px;
+    margin: 0 auto;
+}
+
+section.mailer-documentation-header .kau-quick-link-container {
+    margin-bottom: 100px;
+}
+
+@media (min-width: 992px) {
+    section.mailer-documentation-header .kau-quick-link-container {
+        margin-bottom: 0;
+    }
+}
+
+
+.why-us-section .kau-mailer-icon-box {
+    padding: 35px;
+    position: relative;
+    overflow: hidden;
+
+    box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+    transition: all 0.3s ease-in-out;
+    border-radius: 8px;
+    z-index: 1;
+}
+.why-us-section .kau-icon-box-one {
+    background: #8B4AE1;
+}
+.why-us-section .kau-icon-box-two {
+    background: #BA62CD;
+}
+.why-us-section .kau-icon-box-three {
+    background: #D168B3;
+}
+
+.kau-doc-section-label{
+
+    font-size: 17px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+.kau-doc-label-color{
+    width:auto !important;
+    background-color: #8B4AE1 !important;
+
+}
+.kau-doc-label-hr{
+
+    margin-top:  -9px;
+    border-top: 2px solid #8B4AE1;
+}
+.kau-install-setup-header-text{
+   margin-top:  60px;
+    color: #716D6D;
+}
+.kau-doc-screenshot{
+    margin: 50px;
+}
+
+
+.kau-doc-section-label-two{
+
+    font-size: 17px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+.kau-doc-label-color-two{
+    width:auto !important;
+    background-color: #BA62CD !important;
+
+}
+.kau-doc-label-hr-two{
+
+    margin-top:  -9px;
+    border-top: 2px solid #BA62CD;
+}
+
+.kau-doc-section-label-three{
+
+    font-size: 17px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+.kau-doc-label-color-three{
+    width:auto !important;
+    background-color: #D168B3 !important;
+
+}
+.kau-doc-label-hr-three{
+
+    margin-top:  -9px;
+    border-top: 2px solid #D168B3;
+}
+
+
+
+
+
+
+
+
